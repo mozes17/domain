@@ -1,4 +1,4 @@
-/* Alap stílusok */
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -48,7 +48,7 @@ footer {
     padding: 10px;
 }
 
-/* Responszív dizájn */
+
 @media (max-width: 768px) {
     nav {
         text-align: center;
@@ -59,4 +59,3 @@ footer {
         margin-bottom: 10px;
     }
 }
-
