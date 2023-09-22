@@ -11,7 +11,7 @@ div {
 
   button {
     background-color: #3498db;
-    color: #fff;
+    color: #341eaf;
     border: none;
     padding: 10px 20px;
     cursor: pointer;
@@ -27,7 +27,7 @@ div {
     list-style: none;
     display: flex;
     justify-content: space-around;
-    background-color: #333;
+    background-color: #020b55;
     padding: 10px 0;
   }
   
@@ -37,12 +37,20 @@ div {
   
   ul.nav li a {
     text-decoration: none;
-    color: #fff;
+    color: #ffffff;
     padding: 5px 10px;
     transition: background-color 0.3s ease;
   }
   
   ul.nav li a:hover {
     background-color: #555;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+    width: 70%; /* Itt állítsd be a kívánt szélességet százalékban */
+    display: block;
+    margin: 0 auto;
   }
   
