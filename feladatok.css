@@ -1,7 +1,9 @@
 div {
     text-align: center;
   }
-  
+  h1, p{
+      color:white
+  }
 
   body {
     background-color: rgb(2, 1, 99);
